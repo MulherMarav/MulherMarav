@@ -18,6 +18,6 @@
 ### Likendin:
 <a href="https://www.linkedin.com/in/dyane-andrade-ara%C3%BAjo-823263143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![image](https://user-images.githubusercontent.com/101612046/162560482-865d2007-babe-4717-8c8d-07c0cb69901f.png)
+![image](https://tenor.com/view/cats-white-cat-love-cute-cat-gif-21751603)
 
 
