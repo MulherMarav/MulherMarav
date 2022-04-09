@@ -7,9 +7,12 @@
 - 📌 Curiosidade: músicas, filmes/séries, desenvolvimento web e jogos.
 
 ### Ferramentas e Tecnologias
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="100" height="100" />
+ </div>
+ <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100" height="100" />
+ </div>
 
 
 ### Likendin:
