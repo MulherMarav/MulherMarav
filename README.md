@@ -14,7 +14,10 @@
 ### Likendin:
 <a href="https://www.linkedin.com/in/dyane-andrade-ara%C3%BAjo-823263143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<div class="tenor-gif-embed" data-postid="21751603" data-share-method="host" data-aspect-ratio="1.15108" data-width="100%"><a href="https://tenor.com/view/cats-white-cat-love-cute-cat-gif-21751603">Cats White Cat Sticker</a>from <a href="https://tenor.com/search/cats-stickers">Cats Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div class="tenor-gif-embed" data-postid="21751603" data-share-method="host" data-aspect-ratio="1.15108" data-width="100%">
+ <a href="https://tenor.com/view/cats-white-cat-love-cute-cat-gif-21751603">Cats White Cat Sticker</a>from 
+  <a href="https://tenor.com/search/cats-stickers">Cats Stickers</a></div> 
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 
