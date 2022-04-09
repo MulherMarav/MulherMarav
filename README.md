@@ -18,7 +18,7 @@
 ### Likendin:
 <a href="https://www.linkedin.com/in/dyane-andrade-ara%C3%BAjo-823263143" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/MulherMarav/MulherMarav=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MulherMarav/MulherMarav=anuraghazra&show_icons=true&theme=radical)
 
 
 
