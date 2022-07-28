@@ -2,9 +2,11 @@
 ### Bem vindo(a) ao meu perfil GitHub 👋
 
 - 💼 Atualmente estou trabalhando como Desenvolvedora Java Jr. na One Consultoria
-- 🌱 Atualmente estou aprendendo sobre API REST, padrões de projetos e Clean Code.
+- 🌱 Atualmente estou aprendendo sobre API's RESTful, Microservices e Arquitetura e Padrões de Projetos (Clean Code).
 - 📫 Como entrar em contato comigo: e-mail: dyane.aaraujo@gmail.com
 - 📌 Curiosidade: músicas, filmes/séries, desenvolvimento web e jogos.
+
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=MulherMarav&show_icons=true&line_height=30)
 
 ### Ferramentas e Tecnologias
 <div>
