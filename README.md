@@ -1,4 +1,4 @@
-# Olá, me chamo Dyane Andrade 👋:
+# Olá, me chamo Dyane 👋:
 
 Back-end | Software Developer ❤️ (Em progresso)
 
