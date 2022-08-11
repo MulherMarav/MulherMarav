@@ -4,7 +4,7 @@ Back-end | Software Developer ❤️ (Em progresso)
 
 - 💼 Sou Desenvolvedora Java Jr.
 - 👨‍💻 Atualmente estou aprendendo sobre API's RESTful e Microservices. 
-- 🌱 Formada na Universidade Paulista - UNIP no curso Ciência das Computação em 2022.
+- 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
 - 📫 Como entrar em contato comigo: e-mail: dyane.aaraujo@gmail.com
 - 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
 
