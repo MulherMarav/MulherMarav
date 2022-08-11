@@ -2,11 +2,11 @@
 
 Back-end | Software Developer ❤️ (Em progresso)
 
-- 💼 Atualmente estou trabalhando como Desenvolvedora Java Jr.
+- 💼 Sou Desenvolvedora Java Jr.
 - 👨‍💻 Atualmente estou aprendendo sobre API's RESTful e Microservices. 
-- 🌱 Em breve quero aprender Arquitetura e Padrões de Projetos (Clean Code); Testes Unitários e de Integração; NoSQL; DevOps e Kafka.
+- 🌱 Formada na Universidade Paulista - UNIP no curso Ciência das Computação em 2022.
 - 📫 Como entrar em contato comigo: e-mail: dyane.aaraujo@gmail.com
-- 📌 Curiosidade: músicas, filmes/séries, desenvolvimento web e jogos.
+- 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=MulherMarav&show_icons=true&line_height=30)
 
