@@ -2,9 +2,10 @@
 
 Back-end | Software Developer ❤️ (Em progresso)
 
-- 💼 Sou Desenvolvedora Java Jr.
-- 👨‍💻 Atualmente estou aprendendo sobre API's RESTful e Microservices. 
+- 💼 Desenvolvedora Java Jr a mais de 1 ano.
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
+- 👨‍💻 Skills Hard: Spring Framework, API's RESTful, Microservices, JUnit 5, Mockito, RabbitMQ, MySQL, Docker, Primefaces e Git. 
+
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
 - 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
 
