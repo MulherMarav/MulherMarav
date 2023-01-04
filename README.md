@@ -29,6 +29,7 @@ Back-end | Software Developer ❤️ (Em progresso)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Sonar](https://img.shields.io/static/v1?style=for-the-badge&message=Sonar&color=FD3456&logo=Sonar&logoColor=FFFFFF&label=)
+![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
 
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=MulherMarav&show_icons=true&line_height=30)
