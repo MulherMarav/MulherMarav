@@ -44,6 +44,10 @@
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![Sonar](https://img.shields.io/static/v1?style=for-the-badge&message=Sonar&color=FD3456&logo=Sonar&logoColor=FFFFFF&label=)
 ![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
+![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
+![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
     
 
 ## Likendin:
