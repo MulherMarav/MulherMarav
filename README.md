@@ -6,7 +6,7 @@
 <img height="500em" src="https://user-images.githubusercontent.com/101612046/210596231-f67be76e-9c93-409f-aad1-9ca7227608e4.gif"/>
 </div>
 
-## Back-end | Software Developer ❤️ (Em progresso)
+## Back-end | Software Developer ❤️
 
 - 💼 Desenvolvedora Java Jr.
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
