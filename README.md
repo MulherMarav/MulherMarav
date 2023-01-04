@@ -9,7 +9,6 @@ Back-end | Software Developer ❤️ (Em progresso)
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
 - 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=MulherMarav&show_icons=true&line_height=30)
 
 ### Ferramentas e Tecnologias
 
@@ -28,7 +27,11 @@ Back-end | Software Developer ❤️ (Em progresso)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+![Sonar](https://img.shields.io/static/v1?style=for-the-badge&message=Sonar&color=FD3456&logo=Sonar&logoColor=FFFFFF&label=)
 
+
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=MulherMarav&show_icons=true&line_height=30)
 
 
 ### Likendin:
