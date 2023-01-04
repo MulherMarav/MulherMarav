@@ -10,10 +10,25 @@
 
 - 💼 Desenvolvedora Java Jr.
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
-- 👨‍💻 Skills Hard: Java 11+, Spring Boot, API's RESTful, Microservices, Reactive Programming (WebFlux), JUnit 5, Mockito, RabbitMQ, Kafka, Kanban (Jira), MySQL, PostgresSQL, Docker, Sonar, SOLID, Clean Architecture, Primefaces 8+, Git e Github. 
+
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
 - 📌 Perfil antigo do Github para estudos acadêmicos: https://github.com/DyaneAndrade.
 
+ 
+## 👨‍💻 Skills Hard: 
+ 
+* Java 11+ e Orientação a Objetos.
+* Ecossistema Spring (Framework, MVC, Boot, Data, Cloud, Security e etc) e hibernate/JPA
+* API RESTful, Swagger, JWT e Microservices
+* Reactive Programming (Webflux) 
+* RabbitMQ e Kafka
+* MySQL, PostgreSQL, SQL Graphql e Flyway
+* JUnit 5, Mockito e Testes de Integração (Testcontainers)
+* Design Patterns, SOLID e Clean Architecture
+* Primefaces (JSF)
+* Docker, Tomcat e Maven 
+* Git, GitHub e Git Actions
+* Metodologias Ágeis (Kanban e Jira) e Sonar
 
 ![](https://github.com/MulherMarav/snk/raw/output/github-contribution-grid-snake.svg)
 
