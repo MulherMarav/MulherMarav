@@ -8,7 +8,7 @@
 
 ## Back-end | Software Developer ❤️
 
-- 💼 Desenvolvedora Java Jr.
+- 💼 Desenvolvedora Java.
 - 🌱 Formada na Universidade Paulista - UNIP no curso Ciência da Computação em 2022.
 
 - 📫 Como entrar em contato comigo: dyane.aaraujo@gmail.com.
@@ -22,7 +22,7 @@
 * API RESTful, Swagger, JWT e Microservices
 * Reactive Programming (Webflux) 
 * RabbitMQ e Kafka
-* MySQL, PostgreSQL, SQL Graphql e Flyway
+* MySQL, PostgreSQL e Flyway
 * JUnit 5, Mockito e Testes de Integração (Testcontainers)
 * Design Patterns, SOLID e Clean Architecture
 * Primefaces (JSF)
