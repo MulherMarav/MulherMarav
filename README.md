@@ -18,7 +18,7 @@
 ## 👨‍💻 Skills Hard: 
  
 * Java 11+ e Orientação a Objetos.
-* Ecossistema Spring (Framework, MVC, Boot, Data, Cloud, Security e etc) e hibernate/JPA
+* Ecossistema Spring Framework (MVC, Boot, Data, Cloud, Security e etc) e hibernate/JPA
 * API RESTful, Swagger, JWT e Microservices
 * Reactive Programming (Webflux) 
 * RabbitMQ e Kafka
