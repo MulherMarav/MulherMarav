@@ -23,7 +23,8 @@
 * Docker, Tomcat, Netty e Maven 
 * Git, GitHub e Git Actions
 * Metodologias Ágeis (Kanban e Jira) e Sonar
-* Kotlin / Golang
+* Kotlin / Golang (andamento)
+* Kubernetes / AWS (andamento)
 
 ![](https://github.com/MulherMarav/snk/raw/output/github-contribution-grid-snake.svg)
 
