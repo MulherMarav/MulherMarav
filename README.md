@@ -1,4 +1,4 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78EE0&width=435&height=100&lines=Hello%2C+welcome!;My+name+is+Dyane.;I'm+25+years+old.;I'm+a+developer+Java." alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78EE0&width=435&height=100&lines=Hi%2C+welcome!;My+name's+Dyane.;I'm+25+years+old.;I'm+a+developer+Java." alt="Typing SVG" /></a>
 
 ## Back-end | Software Developer ❤️
 
@@ -12,17 +12,18 @@
 ## 👨‍💻 Skills Hard: 
  
 * Java 11+ e Orientação a Objetos.
-* Ecossistema Spring Framework (MVC, Boot, Data, Cloud, Security e etc) e hibernate/JPA
+* Ecossistema Spring Framework (MVC, Boot, Data, Cloud, Security e Webflux) e hibernate/JPA
 * API RESTful, Swagger, JWT e Microservices
-* Reactive Programming (Webflux) 
+* Reactive Programming
 * RabbitMQ e Kafka
 * MySQL, PostgreSQL e Flyway
 * JUnit 5, Mockito e Testes de Integração (Testcontainers)
 * Design Patterns, SOLID e Clean Architecture
 * Primefaces (JSF)
-* Docker, Tomcat e Maven 
+* Docker, Tomcat, Netty e Maven 
 * Git, GitHub e Git Actions
 * Metodologias Ágeis (Kanban e Jira) e Sonar
+* Kotlin / Golang
 
 ![](https://github.com/MulherMarav/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -57,6 +58,9 @@
 ![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 ![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+![Kotlin](https://img.shields.io/static/v1?style=for-the-badge&message=Kotlin&color=7F52FF&logo=Kotlin&logoColor=FFFFFF&label=)
+![Argo](https://img.shields.io/static/v1?style=for-the-badge&message=Argo&color=EF7B4D&logo=Argo&logoColor=FFFFFF&label=)
     
 
 ## Likendin:
